@@ -2,7 +2,7 @@
 # m每台机器使用显卡数目
 nproc_per_node=2
 # 主机器ip
-MASTER_ADDR=192.168.53.10
+MASTER_ADDR=192.168.0.0
 # 主机器端口号，可以随意，只要不冲突
 MASTER_PORT=29507
 # 机器编号，主机器必须为0
